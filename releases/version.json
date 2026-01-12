@@ -1,7 +1,7 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "apkUrl": "https://raw.githubusercontent.com/narcis-dev/solera-purple-nl-releases/main/releases/solera-dashboard-nl-release.apk",
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "apkUrl": "https://raw.githubusercontent.com/narcis-dev/solera-purple-nl-releases/main/releases/solera-dashboard-nl-latest.apk",
   "mandatory": false,
   "changelog": "Added admin clear cache & restart button."
 }
