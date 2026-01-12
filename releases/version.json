@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2.0",
+  "versionCode": 4,
+  "versionName": "1.2.1",
   "apkUrl": "https://raw.githubusercontent.com/narcis-dev/solera-purple-nl-releases/main/releases/solera-dashboard-nl-latest.apk",
   "mandatory": false,
   "changelog": "Added self update on boot"
