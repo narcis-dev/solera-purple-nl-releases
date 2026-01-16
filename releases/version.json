@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "1.2.1",
-  "apkUrl": "https://raw.githubusercontent.com/narcis-dev/solera-purple-nl-releases/main/releases/solera-dashboard-nl-latest.apk",
+  "versionCode": 5,
+  "versionName": "1.3.0",
+  "apkUrl": "https://github.com/narcis-dev/solera-purple-nl-releases/releases/download/v1.3.0/app-release.apk",
   "mandatory": false,
-  "changelog": "Added self update on boot"
+  "changelog": "- Portrait layout verbeterd\n- Haptic feedback toegevoegd\n- Offline status voor knoppen"
 }
